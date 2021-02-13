@@ -18,5 +18,8 @@
     <ClCompile Include="first.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
