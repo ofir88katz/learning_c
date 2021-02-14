@@ -222,7 +222,7 @@ void print_board(const char board[BOARD_SIZE][BOARD_SIZE]) {
     }
 }
 
-int main(){
+/*int main(){
 
     char board[BOARD_SIZE][BOARD_SIZE];
     initial_board(board);
@@ -249,4 +249,4 @@ int main(){
     }
 
     return 0;
-}
+}*/
